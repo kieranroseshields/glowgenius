@@ -352,7 +352,7 @@ prompt = types.ModelInput.from_ints(tokenizer.encode(prompt_text))
 
 params = types.SamplingParams(
     max_tokens=20,
-    temperature=0.7,   # more creative than greedy
+    temperature=0.7,  
     stop=["\n"]
 )
 
