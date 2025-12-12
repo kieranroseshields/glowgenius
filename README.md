@@ -1,2 +1,2 @@
 # glowgenius
-Proejcts powered by Thinking Machines!
+Projects powered by Thinking Machines!
