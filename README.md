@@ -19,9 +19,13 @@ Review:
 2. LORA Fine tuning: Fine tuning uses a pre-trained larger LLM (base model) and trains the base model on a task using a specific dataset. LORA (low rank adaption),  enabled by the thinking machines API, introduces low rank adapters into the model so there are fewer parameters to train and the base model weights stay frozen. 
 
 Tokens : Numbers that translate the text and drive learning
+
 Base Weights: Define how Base model already thinks - frozen during LORA
+
 LORA Adapters: Inserted weights into the layers
+
 LORA Learning Rank: capacity of learning - smaller rank more subtle changes to the data, higher rank larger more expressive changes
+
 LORA Learning Rate: how fast the adapters change, lower the rate the safer the learning
 
 
