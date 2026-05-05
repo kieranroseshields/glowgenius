@@ -1,9 +1,13 @@
 # glowgenius
 Projects powered by Thinking Machines!
-Current Project: Supervised training loop with NYC Data using LORA
+Project: Reiforned training loop with NYC Data using LORA
 Setup/API Info: https://tinker-docs.thinkingmachines.ai/
 
-#Project overview
+
+
+
+
+#SL Project overview
 
 This project creates a loop using Lora fine tuning methods and supervised learning to adapt a base language model using tinker API to answer questions about New York City. 
 
